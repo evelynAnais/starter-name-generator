@@ -15,13 +15,3 @@ const App = () => {
 }
 
 export default App
-
-
-heroku create namegeatorback
-Creating ⬢ namegeatorback... done
-https://namegeatorback.herokuapp.com
-
-heroku create nameneralient -b https://github.com/mars/create-react-app-buildpack.git
-Creating ⬢ nameneralient... done
-Setting buildpack to https://github.com/mars/create-react-app-buildpack.git... done
-https://nameneralient.herokuapp.com/ | https://git.heroku.com/nameneralient.git
